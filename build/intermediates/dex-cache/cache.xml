@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
-        jar="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/catherine/JPushDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/catherine/JPushDemo/app/build/intermediates/pre-dexed/debug/classes-dc6a52c515e7957d5556d0712775639a867e2f87.jar" />
+    </item>
+    <item
+        jar="/Users/catherine/JPushDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/catherine/JPushDemo/app/build/intermediates/pre-dexed/debug/classes-537a8ea5e2e8ca462d748eb60352410832c71254.jar" />
+    </item>
+    <item
+        jar="/Users/catherine/JPushDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0a9dc266a99acb5c2a449df743f37d6b08c09f71.jar" />
-    </item>
-    <item
-        jar="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/libs/jpush-android-2.0.5.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
-        <dex dex="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/pre-dexed/debug/jpush-android-2.0.5-26f4cc66cd01fc04600438e0d55c1a0623d92b69.jar" />
-    </item>
-    <item
-        jar="/Users/catherine/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-47d88d8c1612533b7b6cdf034f747f95ef78d152.jar" />
+        <dex dex="/Users/catherine/JPushDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-16fb6115b095dc51793176d0bce78e124e9e5c59.jar" />
     </item>
     <item
         jar="/Users/catherine/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-2238969aeeb747f95d349b31a5406b50bb90cc46.jar" />
+        <dex dex="/Users/catherine/JPushDemo/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-2238969aeeb747f95d349b31a5406b50bb90cc46.jar" />
     </item>
     <item
-        jar="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/Users/catherine/JPushDemo/app/libs/jpush-android-2.0.5.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/pre-dexed/debug/classes-a244a50c5d1cd8509ba5b66fac81e9159ffa93a5.jar" />
+        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
+        <dex dex="/Users/catherine/JPushDemo/app/build/intermediates/pre-dexed/debug/jpush-android-2.0.5-d7b9abfca1905ddc3e7eab3fa8100953f7291221.jar" />
     </item>
     <item
-        jar="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/catherine/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/build/intermediates/pre-dexed/debug/classes-65e23d43315f79bfc63d62eb5ba8ed75c7b1af7d.jar" />
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/catherine/JPushDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-47d88d8c1612533b7b6cdf034f747f95ef78d152.jar" />
     </item>
 
 </items>
