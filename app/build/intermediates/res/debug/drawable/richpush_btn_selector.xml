@@ -18,4 +18,4 @@
         android:drawable="@android:color/darker_gray" /> 
     <!-- 默认时的背景图片 --> 
     <item android:drawable="@drawable/ic_richpush_actionbar_back" /> 
-</selector> <!-- From: file:/Users/catherine/AndroidStudioProjects/Git/JPushDemo/app/src/main/res/drawable/richpush_btn_selector.xml -->
+</selector> <!-- From: file:/Users/catherine/JPushDemo/app/src/main/res/drawable/richpush_btn_selector.xml -->
